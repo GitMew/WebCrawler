@@ -1,3 +1,11 @@
+# Data
+data.txt
+*.jpg
+*.jpeg
+
+# Project-specific
+diagnostics/private/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
